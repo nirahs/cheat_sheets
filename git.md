@@ -59,6 +59,10 @@
 
 `$ git log`
 
+## Undoing last commit
+
+`$ git rest --soft HEAD~1`
+
 ## Reseting a commit
 
 `$ git reset [wrong_commit_parent_id]`
